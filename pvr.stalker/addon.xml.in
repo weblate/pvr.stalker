@@ -18,6 +18,7 @@
     </assets>
     <summary lang="af_ZA">PVR Kliënt om Kodi aan Stalker Middleware te konnekteer</summary>
     <summary lang="bg_BG">Клиент за ПВР за свързване на Kodi със „Stalker Middleware“</summary>
+    <summary lang="bs_BA">PVR klijent za povezivanje Kodija sa Stalker Middleware-om</summary>
     <summary lang="ca_ES">Client PVR per connectar Kodi al Middleware Stalker</summary>
     <summary lang="cs_CZ">Klient PVR pro připojení Kodi k Stalker Middleware</summary>
     <summary lang="da_DK">PVR klient som forbinder Kodi til Stalker Middleware</summary>
@@ -63,6 +64,7 @@
     <summary lang="zh_TW">連接至 Stalker Middleware 的Kodi PVR用戶端</summary>
     <description lang="af_ZA">PVR Kliënt om Kodi aan Stalker Middleware te konnekteer</description>
     <description lang="bg_BG">Клиент за ПВР за свързване на Kodi със „Stalker Middleware“</description>
+    <description lang="bs_BA">PVR klijent za povezivanje Kodija sa Stalker Middleware-om</description>
     <description lang="ca_ES">Client PVR per connectar Kodi al Middleware Stalker</description>
     <description lang="cs_CZ">Klient PVR pro připojení Kodi k Stalker Middleware</description>
     <description lang="da_DK">PVR klient som forbinder Kodi til Stalker Middleware</description>
@@ -108,6 +110,7 @@
     <description lang="zh_TW">連接至 Stalker Middleware 的Kodi PVR用戶端</description>
     <disclaimer lang="af_ZA">Hierdie is onstabiele sagteware! Die outeurs is op geen manier verantwoordelik vir gefaalde opnames, inkorrekte tydhouers, gemorsde ure, of enige ander ongewensde effekte.</disclaimer>
     <disclaimer lang="bg_BG">Тази програма е нестабилна! Авторите не носят отговорност за неуспешно записване, некоректни броячи, пропиляно време и други нежелани ефекти.</disclaimer>
+    <disclaimer lang="bs_BA">Ovo je nestabilan softver! Autori ni na koji način nisu odgovorni za neuspjela snimanja, netačne mjerače vremena, izgubljene sate ili bilo koje druge neželjene efekte.</disclaimer>
     <disclaimer lang="ca_ES">Això és programari inestable! Els autors no són de cap manera responsables dels enregistraments que han fallat, temporitzadors incorrectes, hores perdudes, o qualssevol altres efectes no desitjats.</disclaimer>
     <disclaimer lang="cs_CZ">Tento software není stabilní! Autoři nejsou žádným způsobem zodpovědní za neúspěšná nahrávání, chybné časovače, ztracený čas nebo jakékoliv jiné nežádoucí výsledky.</disclaimer>
     <disclaimer lang="cy_GB">Mae hwn yn feddalwedd ansad! Nid yw&apos;r awduron yn gyfrifol mewn unrhyw ffordd am fethu recordio, amseru gwallus, oriau wedi eu gwastraffu nac effeithiau anymunol eraill.</disclaimer>
